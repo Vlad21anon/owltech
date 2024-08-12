@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "id": "id1",
+      "name": "Анатолий",
+      "status": "Тренер",
+      "imageUrl": "https://kartinki.pics/uploads/posts/2022-03/1648048168_2-kartinkin-net-p-kartinki-litsa-cheloveka-2.jpg",
+      "countUnreadedMessages": 8,
+      "lastMessage": "Здравствуйте, я хотел вам сказать..."
+    },{
+      "id": "id2",
+      "name": "Денис",
+      "status": "Диетолог",
+      "imageUrl": "https://kartinki.pics/uploads/posts/2022-03/1648048168_2-kartinkin-net-p-kartinki-litsa-cheloveka-2.jpg",
+      "countUnreadedMessages": 2,
+      "lastMessage": "Здравствуйте, у меня есть вопрос"
+    },{
+      "id": "id3",
+      "name": "Денис",
+      "status": "Диетолог",
+      "imageUrl": "https://kartinki.pics/uploads/posts/2022-03/1648048168_2-kartinkin-net-p-kartinki-litsa-cheloveka-2.jpg",
+      "countUnreadedMessages": 0,
+      "lastMessage": "Отлично!"
+    },
+  ]
+}
